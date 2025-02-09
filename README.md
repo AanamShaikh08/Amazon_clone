@@ -34,11 +34,6 @@ amazon-clone/
 └── README.md     # Project documentation
 ```
 
-## Future Enhancements
-- Add a **Login & Signup** page.
-- Implement a **Product Details** page.
-- Improve **mobile responsiveness**.
-
 ## Disclaimer
 This project is **for educational purposes only** and is not affiliated with **Amazon** in any way.
 
