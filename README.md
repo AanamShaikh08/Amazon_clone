@@ -11,8 +11,8 @@ This is a simple Amazon Clone built using only **HTML and CSS**. The project rep
 - **Modern UI**: Styled with CSS3 for a sleek design.
 
  <h3>Technologies Used</h3>
-- **HTML5** - Structure of the website.
-- **CSS3** - Styling and responsiveness (Flexbox, Grid, Media Queries).
+**HTML5** - Structure of the website.</br>
+**CSS3** - Styling and responsiveness (Flexbox, Grid, Media Queries).
 
 <h3>Installation & Usage</h3>
 1. Clone the repository:
@@ -26,11 +26,11 @@ This is a simple Amazon Clone built using only **HTML and CSS**. The project rep
 
 <h3>Folder Structure</h3>
 
-amazon-clone/
-│── index.html    # Main HTML file
-│── styles.css    # CSS file for styling
-│── images/       # Folder containing images used in the project
-└── README.md     # Project documentation
+amazon-clone/ </br>
+│── index.html    # Main HTML file </br>
+│── styles.css    # CSS file for styling </br>
+│── images/       # Folder containing images used in the project </br>
+└── README.md     # Project documentation </br>
 
 
 <h3>Disclaimer</h3>
