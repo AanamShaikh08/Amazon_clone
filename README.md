@@ -25,13 +25,13 @@ This is a simple Amazon Clone built using only **HTML and CSS**. The project rep
 3. Open `index.html` in your browser.
 
 <h3>Folder Structure</h3>
-```
+
 amazon-clone/
 │── index.html    # Main HTML file
 │── styles.css    # CSS file for styling
 │── images/       # Folder containing images used in the project
 └── README.md     # Project documentation
-```
+
 
 <h3>Disclaimer</h3>
 This project is **for educational purposes only** and is not affiliated with **Amazon** in any way.
